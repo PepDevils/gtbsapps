@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/escreva_email"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/emailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="0dp"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/passord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:text="@string/escreva_passe"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/passordText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="0dp"
+        android:inputType="textPassword"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/passwordRepite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/repita_passe"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/passordTextRepite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="0dp"
+        android:inputType="textPassword"
+        android:textColor="@color/black" />
+
+
+    <Button
+        android:id="@+id/bt_sign_in"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/buttonshape2"
+        android:gravity="center"
+        android:shadowColor="@color/gray"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="0"
+        android:text="@string/bt_sign_in"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bt_esquecime"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/buttonshape2"
+        android:gravity="center"
+        android:shadowColor="@color/gray"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="0"
+        android:text="@string/bt_esquecime"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bt_sair"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/buttonshape2"
+        android:gravity="center"
+        android:shadowColor="@color/gray"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="0"
+        android:text="@string/bt_sair"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+</LinearLayout>

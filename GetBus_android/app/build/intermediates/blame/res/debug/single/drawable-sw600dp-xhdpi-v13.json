@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png"
+    }
+]

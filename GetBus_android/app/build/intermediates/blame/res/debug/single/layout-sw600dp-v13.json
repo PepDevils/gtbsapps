@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view_leftright.xml",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/layout-sw600dp-v13/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view.xml",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/layout-sw600dp-v13/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view_text.xml",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/layout-sw600dp-v13/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/calendar_date_picker_dialog.xml",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/layout-sw600dp-v13/calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view_right_drawable.xml",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.3/res/layout-sw600dp-v13/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

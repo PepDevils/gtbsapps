@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_general_xml"
+    tools:context="com.example.dezvezesdez.getbusmotorista.CheckTicketOflineActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/bt_ida"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:background="@color/green"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="Ida" />
+
+                <Button
+                    android:id="@+id/bt_ida_e_volta"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:background="@color/green"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="Ida e Volta" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"
+                android:background="@drawable/linear_layout_rounded"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="ORIGEM:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_source"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="DESTINO:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_destiny"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="DATA DE IDA:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_date_go"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="DATA DE VOLTA:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_date_come"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginTop="5dp"
+                    android:paddingRight="5dp"
+                    android:background="@color/colorPrimaryDark">
+                </View>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="TIPO DE VIAGEM:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_type_trip"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="TOTAL PAGO:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_total_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="TIPO DE PAGAMENTO:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_type_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="DATA DE PAGAMENTO:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_date_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginTop="5dp"
+                    android:paddingRight="5dp"
+                    android:background="@color/colorPrimaryDark">
+                </View>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="LUGARES DE ADULTOS:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_adult_seats"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="LUGARES DE CRIANÇAS:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_childs_seats"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginTop="5dp"
+                    android:paddingRight="5dp"
+                    android:background="@color/colorPrimaryDark">
+                </View>
+
+                <TextView
+                    android:id="@+id/name_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="NOME DO CLIENTE:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_name_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:id="@+id/ip_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="IP DO CLIENTE:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_ip_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:id="@+id/phone_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="TELEMÓVEL DO CLIENTE:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_phone_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+                <TextView
+                    android:id="@+id/email_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="EMAIL DO CLIENTE:"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_email_client"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dados Indisponíveis" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

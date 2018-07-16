@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">getBus_en</string>
+
+    <string name="titulo">TICKETS</string>
+
+
+    <string name="tv_partida">From:</string>
+    <string name="tv_ir_ate">Go to:</string>
+
+    <string name="tv_bilhetes_adultos">Number of adult tickets:</string>
+    <string name="tv_bilhetes_crianças">Number of child tickets (under 12):</string>
+
+    <string name="tv_total_pay">Total to pay:</string>
+
+    <string name="bt_comprar_text">BUY</string>
+    <string name="bt_calcular_text">CALCULATE PRICE</string>
+
+    <string name="tx_title_pay">PAYMENT METHODS</string>
+
+    <string name="mensagem_erro">Invalid Selection, check your choice</string>
+
+    <string name="tv_apenas_ida">Only one-way </string>
+    <string name="tv_id_e_volta">round trip</string>     // duvidas   go and come back
+
+    <string name="place_holder_data_ida">Date to go:</string>
+    <string name="place_holder_data_volta">Date to come back:</string>
+
+
+    <string-array name="string_array_num_adultos_crianças">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="string_array_cities">
+        <item>Porto</item>
+        <item>Braga</item>
+        <item>Guimarães</item>
+    </string-array>
+
+    <string-array name="string_array_meses">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string name="bt_comprar">BUY</string>
+    <string name="bt_o">O</string>
+
+    <string name="action_pt">Portuguese</string>
+    <string name="action_en">English</string>
+
+    <string name="bt_escolha_hora">Choose Time</string>
+    <string name="bt_escolha_data">Choose Date</string>
+
+    <string name="dia">Day: </string>
+    <string name="mes">Month: </string>
+    <string name="ano">Year: </string>
+    <string name="hora">Hour: </string>
+    <string name="minuto">Minute: </string>
+
+    <string name="selecte_time">Choose Time </string>  //Select Time
+    <string name="selecte_date">Choose Date </string>  //Select Date
+
+
+</resources>

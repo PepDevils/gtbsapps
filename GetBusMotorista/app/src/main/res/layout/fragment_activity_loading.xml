@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.dezvezesdez.agostinhosousa.Activity_Loading">
+
+
+    <ImageView
+        android:id="@+id/fundo"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/fundo_general_xml"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo_getbus"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_cities">
+        <item>Porto</item>
+        <item>Braga</item>
+        <item>Guimarães</item>
+    </string-array>
+    <string-array name="string_array_meses">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </string-array>
+    <string-array name="string_array_num_adultos_crianças">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="action_en">Inglês</string>
+    <string name="action_pt">Português</string>
+    <string name="ano">Ano: </string>
+    <string name="app_name">getBus_pt</string>
+    <string name="bt_calcular_text">CALCULAR PREÇO</string>
+    <string name="bt_comprar">COMPRAR</string>
+    <string name="bt_comprar_text">COMPRAR</string>
+    <string name="bt_criar_conta">CRIAR CONTA</string>
+    <string name="bt_escolha_data">Escolha a Data</string>
+    <string name="bt_escolha_hora">Escolha a Hora</string>
+    <string name="bt_esquecime">ESQUECI A PASSE</string>
+    <string name="bt_log_in">LOG IN</string>
+    <string name="bt_o">O</string>
+    <string name="bt_sair">SAIR</string>
+    <string name="bt_sem_conta">SEM CONTA</string>
+    <string name="bt_sign_in">SIGN IN</string>
+    <string name="dia">Dia: </string>
+    <string name="escreva_email">Escreva o seu email</string>
+    <string name="escreva_passe">Escreva a sua palavra passe</string>
+    <string name="hora">Hora: </string>
+    <string name="mensagem_erro">Selecção da viagem inválida, verifique a sua escolha</string>
+    <string name="mes">Mês: </string>
+    <string name="minuto">Minuto: </string>
+    <string name="place_holder_data_ida">Data de ida:</string>
+    <string name="place_holder_data_volta">Data de volta:</string>
+    <string name="repita_passe">Repita a sua palavra passe</string>
+    <string name="selecte_date">Selecione a data </string>
+    <string name="selecte_time">Selecione a hora </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="titulo">BILHETEIRA</string>
+    <string name="tv_apenas_ida">Apenas de ida</string>
+    <string name="tv_bilhetes_adultos">Número de bilhetes para adulto:</string>
+    <string name="tv_bilhetes_crianças">Número de bilhetes para criança(menor de 12):</string>
+    <string name="tv_id_e_volta">Ida e volta</string>
+    <string name="tv_ir_ate">Ir até:</string>
+    <string name="tv_partida">Partir de:</string>
+    <string name="tv_total_pay">Total a pagar:</string>
+    <string name="tx_title_form">FORMULÁRIO</string>
+    <string name="tx_title_pay">MÉTODOS DE PAGAMENTO</string>
+</resources>

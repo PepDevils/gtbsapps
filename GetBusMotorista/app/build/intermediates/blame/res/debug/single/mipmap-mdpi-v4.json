@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dezvezesdez/GetBusMotorista/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher1.png",
+        "source": "/Users/dezvezesdez/GetBusMotorista/app/src/main/res/mipmap-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBusMotorista/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/getbus_logo_a.png",
+        "source": "/Users/dezvezesdez/GetBusMotorista/app/src/main/res/mipmap-mdpi/getbus_logo_a.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBusMotorista/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/getbus_logo_b.png",
+        "source": "/Users/dezvezesdez/GetBusMotorista/app/src/main/res/mipmap-mdpi/getbus_logo_b.png"
+    }
+]

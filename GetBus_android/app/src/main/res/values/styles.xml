@@ -1,0 +1,67 @@
+<resources>
+
+   <!-- parent="Theme.AppCompat.Light.DarkActionBar"-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme"  parent="Theme.AppCompat.Light.DarkActionBar" >
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+       <!-- <item name="android:alertDialogStyle">@style/ThemeDialogCustom</item>
+        <item name="android:windowTitleBackgroundStyle">@style/MyBackground</item>
+        <item name="android:alertDialogTheme">@style/ThemeDialogCustom</item>-->
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="spinner_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/gradient_spinner</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:paddingBottom">1dp</item>
+    </style>
+
+
+  <!--  <item name="bpDialogBackground">@drawable/custom_dialog_background</item>
+    <item name="bpTextColor">@color/custom_text_color</item>-->
+
+
+
+    <style name="MyCustomBetterPickerTheme">
+        <item name="bpMainColor1">@color/custom_tp_main1</item>
+        <item name="bpMainColor2">@color/custom_tp_main2</item>
+        <item name="bpAccentColor">@color/gray</item>
+        <item name="bpMainTextColor">@color/custom_tp_text</item>
+        <item name="bpDoneTextColor">@color/custom_tp_text</item>
+        <item name="bpLineColor">@color/custom_tp_main2</item>
+        <item name="bpDoneBackgroundColor">@drawable/tp_done_background_color</item>
+        <item name="bpSelectionAlpha">102</item>
+    </style>
+
+    <style name="MyCustomBetterPickersRadialTimePickerDialog">
+        <item name="bpMainColor1">@color/custom_tp_main1</item>
+        <item name="bpMainColor2">@color/custom_tp_main2</item>
+        <item name="bpAccentColor">@color/custom_tp_accent</item>
+        <item name="bpMainTextColor">@color/custom_tp_text</item>
+        <item name="bpDoneTextColor">@color/custom_tp_text</item>
+        <item name="bpLineColor">@color/custom_tp_main2</item>
+        <item name="bpDoneBackgroundColor">@drawable/tp_done_background_color</item>
+        <item name="bpSelectionAlpha">102</item>
+    </style>
+
+</resources>
+

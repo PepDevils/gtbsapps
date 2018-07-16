@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_simples_getbus.png",
+        "source": "/Users/dezvezesdez/GetBus_android/app/src/main/res/mipmap-xxxhdpi/ic_simples_getbus.png"
+    },
+    {
+        "merged": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic.png",
+        "source": "/Users/dezvezesdez/GetBus_android/app/src/main/res/mipmap-xxxhdpi/ic.png"
+    }
+]

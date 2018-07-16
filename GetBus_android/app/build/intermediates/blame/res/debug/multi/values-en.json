@@ -1,0 +1,602 @@
+[
+    {
+        "outputFile": "/Users/dezvezesdez/GetBus_android/app/build/intermediates/res/merged/debug/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1421,
+                        "endLine": 52,
+                        "endColumn": 19,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 1971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endColumn": 45,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 2106,
+                        "endColumn": 45,
+                        "endOffset": 2147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 48,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2057,
+                        "endColumn": 48,
+                        "endOffset": 2101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 38,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 2344,
+                        "endColumn": 38,
+                        "endOffset": 2378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 46,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 60,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 60,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 42,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 1978,
+                        "endColumn": 42,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 47,
+                    "endOffset": 1415
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 47,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1420,
+                    "endColumn": 55,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 2209,
+                        "endColumn": 55,
+                        "endOffset": 2260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 55,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 2153,
+                        "endColumn": 55,
+                        "endOffset": 2204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 34,
+                    "endOffset": 1562
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 34,
+                        "endOffset": 2051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1567,
+                    "endColumn": 37,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 2266,
+                        "endColumn": 37,
+                        "endOffset": 2299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endColumn": 39,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 2383,
+                        "endColumn": 39,
+                        "endOffset": 2418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 78,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 78,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 39,
+                    "endOffset": 1759
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 2304,
+                        "endColumn": 39,
+                        "endOffset": 2339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1764,
+                    "endColumn": 43,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 2423,
+                        "endColumn": 43,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 61,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 61,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 70,
+                    "endOffset": 1936
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 70,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1941,
+                    "endColumn": 53,
+                    "endOffset": 1990
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2537,
+                        "endColumn": 53,
+                        "endOffset": 2586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1995,
+                    "endColumn": 53,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2468,
+                        "endColumn": 53,
+                        "endOffset": 2517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 42,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 42,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endColumn": 55,
+                    "endOffset": 2143
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 55,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2148,
+                    "endColumn": 72,
+                    "endOffset": 2216
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 72,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2221,
+                    "endColumn": 84,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 84,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 52,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 52,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endColumn": 44,
+                    "endOffset": 2399
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 44,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2404,
+                    "endColumn": 44,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 44,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endColumn": 54,
+                    "endOffset": 2499
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 54,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2504,
+                    "endColumn": 56,
+                    "endOffset": 2556
+                },
+                "from": {
+                    "file": "/Users/dezvezesdez/GetBus_android/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 56,
+                        "endOffset": 577
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffc425</color>
+    <color name="colorPrimaryDark">#FFBCA211</color>
+    <color name="colorAccent">#999999</color>
+
+    <!--Cores Gerais-->
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#999999</color>
+    <color name="black">#000000</color>
+    <color name="translucido">#80FFFFFF</color>
+    <color name="transparente">#00FFFFFF</color>
+
+
+    <color name="custom_text_color_normal">#ffffffff</color>
+    <color name="custom_text_color_disabled">#ffb2b2b2</color>
+    <color name="custom_divider_color">#ffffffff</color>
+    <color name="custom_button_background">#00000000</color>
+    <color name="custom_button_background_pressed">#ffcc6600</color>
+    <color name="custom_key_background">#00000000</color>
+    <color name="custom_key_background_pressed">#ffcc6600</color>
+    <color name="custom_keyboard_indicator_color">#ffcc6600</color>
+
+<!--    <color name="custom_tp_main1">#d32f2f</color>
+    <color name="custom_tp_main2">#f44336</color>-->
+
+    <color name="custom_tp_main1">#ffffffff</color>
+    <color name="custom_tp_main2">#ffc425</color>
+    <color name="custom_tp_accent">#ffc425</color>
+    <color name="custom_tp_text">#000000</color>
+    <color name="custom_tp_divider">#000000</color>
+
+
+</resources>
